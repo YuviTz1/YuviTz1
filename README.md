@@ -1,4 +1,13 @@
-## Hi there 👋
+
+👋 Hey there! I’m a developer with a love for all things code and pixels. My top programming weapons of choice are C++ and Python—I wield them to bend reality (or at least, my computer) to my will.
+
+🚀 My all-time favourite project? An OpenGL compute shader raytracer—because why not make light bounce around virtually when you can? If you’re into graphics, shaders, or just making computers sweat, we’ll get along just fine.
+
+🎮 Games aren’t just for playing (although I do love that too)—I’m fascinated by how they’re built, especially the graphical magic behind them. A good frame buffer is poetry to me.
+
+📝 I like to write about my adventures in code and rendering tech on my blog: The Render Thread. Swing by if you want playful deep dives, tips, or just want to geek out about pixels and performance.
+
+Let’s make something cool (and maybe a little bit shiny)! 😎
 
 <!--
 **YuviTz1/YuviTz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
